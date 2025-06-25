@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.222222in" height="2.875in" class="slides-canvas" viewBox="0 0 880 207">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -43, -282)">
+      <path stroke-width="1" stroke="#991C2A" fill="none" d="M42.48 382.96L922.29 382.96" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -43, -282)">
+      <path stroke-width="1" stroke="#991C2A" fill="none" d="M42.48 470.96L922.29 470.96" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 248.1257, 25.567719)"><text font-family="Source Sans Pro" font-style="normal" font-weight="normal" font-stretch="normal" font-size="18pt" fill="#2A2F36" x="0" y="55.470776"><tspan x="0" y="29.550777">An agency or independent provider arranges, manages, and</tspan><tspan xml:space="preserve" x="595.099" y="29.550777"> </tspan><tspan x="0" y="55.470776">supplies waiver services. </tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -43, -282)">
+      <path fill="#C12637" d="M53.97 314.03L259.74 314.03 259.74 314.03C266.05 314.03 271.23 319.22 271.23 325.52L271.23 382.96 42.48 382.96 42.48 325.52C42.48 319.22 47.67 314.03 53.97 314.03z" />
+      <path stroke-width="1" stroke="#C12637" fill="none" d="M53.97 314.03L259.74 314.03 259.74 314.03C266.05 314.03 271.23 319.22 271.23 325.52L271.23 382.96 42.48 382.96 42.48 325.52C42.48 319.22 47.67 314.03 53.97 314.03z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 6.450226, 38.996155)"><text font-family="Source Sans Pro" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFFFFF" x="10.114273" y="36.198048"><tspan x="10.114273" y="36.198048">Provider-Managed</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 246.97006, 127.97891)"><text font-family="Source Sans Pro" font-style="normal" font-weight="normal" font-stretch="normal" font-size="18pt" fill="#2A2F36" x="0" y="55.47078"><tspan x="0" y="3.630783">The individual or their representative arrange and</tspan><tspan xml:space="preserve" x="495.883" y="3.630783"> </tspan><tspan x="0" y="29.550781">manage waiver services using the allowed waiver</tspan><tspan xml:space="preserve" x="489.396" y="29.550781"> </tspan><tspan x="0" y="55.47078">budget.</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -43, -282)">
+      <path fill="#C12637" d="M53.97 400.98L259.74 400.98C266.05 400.98 271.23 406.16 271.23 412.47L271.23 469.9 42.48 469.9 42.48 412.47C42.48 406.16 47.67 400.98 53.97 400.98z" />
+      <path stroke-width="1" stroke="#C12637" fill="none" d="M53.97 400.98L259.74 400.98C266.05 400.98 271.23 406.16 271.23 412.47L271.23 469.9 42.48 469.9 42.48 412.47C42.48 406.16 47.67 400.98 53.97 400.98z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 6.450226, 125.942505)"><text font-family="Source Sans Pro" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFFFFF" x="38.518272" y="36.198048"><tspan x="38.518272" y="36.198048">Self-Directed</tspan></text></g>
+  </g>
+</svg>

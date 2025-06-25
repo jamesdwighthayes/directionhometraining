@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4.75in" height="4.3333335in" class="slides-canvas" viewBox="0 0 342 312">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -0.4286499, 0.3516693)">
+      <rect x="0" y="0" width="340.5714" height="64.8" fill="#C12637" />
+      <rect x="0" y="64.8" width="340.5714" height="259.69662" fill="#E9CDCE" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 0L0 64.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 64.8L0 324.5" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M340.57 0L340.57 64.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M340.57 64.8L340.57 324.5" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 0L340.57 0" />
+      <path stroke-width="3" stroke="#FFFFFF" fill="none" d="M0 64.8L340.57 64.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 324.5L340.57 324.5" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 6.77135, 3.9516692)"><text font-family="DejaVu Sans" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFFFFF" x="101.14821" y="51.765102"><tspan x="54.109146" y="22.965101">Benefits of Self-</tspan><tspan x="101.14821" y="51.765102">Direction</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 6.77135, 68.75167)"><text font-family="Open Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="18.375pt" fill="#2A2F36" x="32.44858" y="195.7651"><tspan x="5.3985825" y="22.965101">•</tspan><tspan x="32.44858" y="22.965101" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">Choice and control.</tspan><tspan x="5.3985825" y="51.765102">•</tspan><tspan x="32.44858" y="51.765102" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">Empowerment.</tspan><tspan x="5.3985825" y="80.5651">•</tspan><tspan x="32.44858" y="80.5651" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">Flexibility.</tspan><tspan x="5.3985825" y="109.365105">•</tspan><tspan x="32.44858" y="109.365105" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">Access to a need-based</tspan><tspan xml:space="preserve" x="317.4017" y="109.365105" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt"> </tspan><tspan x="32.398582" y="138.1651" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">budget.</tspan><tspan x="5.3985825" y="166.9651">•</tspan><tspan x="32.44858" y="166.9651" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">Personalized care.</tspan><tspan x="5.3985825" y="195.7651">•</tspan><tspan x="32.44858" y="195.7651" font-family="DejaVu Sans" font-stretch="normal" font-size="18pt">Family involvement.</tspan></text></g>
+  </g>
+</svg>

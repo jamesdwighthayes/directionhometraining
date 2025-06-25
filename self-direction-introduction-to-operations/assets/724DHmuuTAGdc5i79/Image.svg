@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.25in" height="2.6666667in" class="slides-canvas" viewBox="0 0 882 192">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -43, -296)">
+      <path stroke-width="1" stroke="#991C2A" fill="none" d="M42.49 389.11L923.4 389.11" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -43, -296)">
+      <path stroke-width="1" stroke="#991C2A" fill="none" d="M42.49 455.95L923.4 455.95" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 248.13611, 23.453857)"><text font-family="Source Sans Pro" font-style="normal" font-weight="normal" font-stretch="normal" font-size="16.5pt" fill="#2A2F36" x="0" y="51.326904"><tspan x="0" y="51.326904">Allows the individual to hire, manage, and dismiss their caregivers.</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -43, -296)">
+      <path fill="#C12637" d="M53.1 325.45L260.91 325.45C266.73 325.45 271.52 330.24 271.52 336.06L271.52 389.11 42.49 389.11 42.49 336.06C42.49 330.24 47.28 325.45 53.1 325.45z" />
+      <path stroke-width="1" stroke="#C12637" fill="none" d="M53.1 325.45L260.91 325.45C266.73 325.45 271.52 330.24 271.52 336.06L271.52 389.11 42.49 389.11 42.49 336.06C42.49 330.24 47.28 325.45 53.1 325.45z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 6.1932526, 36.156464)"><text font-family="Source Sans Pro" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFFFFF" x="3.7527237" y="33.694023"><tspan x="3.7527237" y="33.694023">Employer Authority</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 247.95032, 91.13269)"><text font-family="Source Sans Pro" font-style="normal" font-weight="normal" font-stretch="normal" font-size="16.5pt" fill="#2A2F36" x="0" y="51.326904"><tspan x="0" y="27.566906">Allows the individual to manage the funds for self-directed</tspan><tspan xml:space="preserve" x="532.395" y="27.566906"> </tspan><tspan x="0" y="51.326904">waiver services.</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -43, -296)">
+      <path fill="#C12637" d="M53.1 392.29L260.91 392.29C266.73 392.29 271.52 397.08 271.52 402.9L271.52 455.95 42.49 455.95 42.49 402.9C42.49 397.08 47.28 392.29 53.1 392.29z" />
+      <path stroke-width="1" stroke="#C12637" fill="none" d="M53.1 392.29L260.91 392.29C266.73 392.29 271.52 397.08 271.52 402.9L271.52 455.95 42.49 455.95 42.49 402.9C42.49 397.08 47.28 392.29 53.1 392.29z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 6.1932526, 103.00009)"><text font-family="Source Sans Pro" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFFFFF" x="16.77172" y="33.694023"><tspan x="16.77172" y="33.694023">Budget Authority</tspan></text></g>
+  </g>
+</svg>

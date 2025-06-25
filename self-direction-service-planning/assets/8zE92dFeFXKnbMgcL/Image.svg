@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11.861111in" height="4.611111in" class="slides-canvas" viewBox="0 0 854 332">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, 0, -0.36557007)">
+      <rect x="0" y="0" width="248.22827" height="26.400002" fill="#0E3F75" />
+      <rect x="248.22827" y="0" width="604.8" height="26.400002" fill="#0E3F75" />
+      <rect x="0" y="26.400002" width="248.22827" height="59.04" fill="#F2F2F2" />
+      <rect x="248.22827" y="26.400002" width="604.8" height="59.04" fill="#F2F2F2" />
+      <rect x="0" y="85.44" width="248.22827" height="59.04" fill="#FFFFFF" />
+      <rect x="248.22827" y="85.44" width="604.8" height="59.04" fill="#FFFFFF" />
+      <rect x="0" y="144.48001" width="248.22827" height="49.07307" fill="#F2F2F2" />
+      <rect x="248.22827" y="144.48001" width="604.8" height="49.07307" fill="#F2F2F2" />
+      <rect x="0" y="193.55307" width="248.22827" height="49.07307" fill="#FFFFFF" />
+      <rect x="248.22827" y="193.55307" width="604.8" height="49.07307" fill="#FFFFFF" />
+      <rect x="0" y="242.62614" width="248.22827" height="49.07307" fill="#F2F2F2" />
+      <rect x="248.22827" y="242.62614" width="604.8" height="49.07307" fill="#F2F2F2" />
+      <rect x="0" y="291.69922" width="248.22827" height="49.07307" fill="#FFFFFF" />
+      <rect x="248.22827" y="291.69922" width="604.8" height="49.07307" fill="#FFFFFF" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 0L0 26.4" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 26.4L0 85.44" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 85.44L0 144.48" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 144.48L0 193.55" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 193.55L0 242.63" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 242.63L0 291.7" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 291.7L0 340.77" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 0L248.23 26.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 26.4L248.23 85.44" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 85.44L248.23 144.48" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 144.48L248.23 193.55" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 193.55L248.23 242.63" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 242.63L248.23 291.7" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 291.7L248.23 340.77" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 0L853.03 26.4" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 26.4L853.03 85.44" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 85.44L853.03 144.48" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 144.48L853.03 193.55" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 193.55L853.03 242.63" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 242.63L853.03 291.7" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M853.03 291.7L853.03 340.77" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 0L248.23 0" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M248.23 0L853.03 0" />
+      <path stroke-width="3" stroke="#FFFFFF" fill="none" d="M0 26.4L248.23 26.4" />
+      <path stroke-width="3" stroke="#FFFFFF" fill="none" d="M248.23 26.4L853.03 26.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 85.44L248.23 85.44" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 85.44L853.03 85.44" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 144.48L248.23 144.48" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 144.48L853.03 144.48" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 193.55L248.23 193.55" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 193.55L853.03 193.55" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 242.63L248.23 242.63" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 242.63L853.03 242.63" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 291.7L248.23 291.7" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M248.23 291.7L853.03 291.7" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M0 340.77L248.23 340.77" />
+      <path stroke-width="1" stroke="#0E3F75" fill="none" d="M248.23 340.77L853.03 340.77" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 3.2344298)"><text font-family="DejaVu Sans" font-style="normal" font-weight="bold" font-stretch="normal" font-size="12pt" fill="#FFFFFF" x="0" y="15.310067"><tspan x="0" y="15.310067">Term</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 3.2344298)"><text font-family="DejaVu Sans" font-style="normal" font-weight="bold" font-stretch="normal" font-size="12pt" fill="#FFFFFF" x="0" y="15.310067"><tspan x="0" y="15.310067">Definition</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 26.75443)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="34.510067"><tspan x="0" y="34.510067">Wage</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 26.75443)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="53.710068"><tspan x="0" y="15.310067">The caregiver's hourly wage as agreed upon between the individual and</tspan><tspan xml:space="preserve" x="580.0469" y="15.310067"> </tspan><tspan x="0" y="34.510067">caregiver. Wages must be at least Ohio’s minimum wage (currently</tspan><tspan xml:space="preserve" x="540.64844" y="34.510067"> </tspan><tspan x="0" y="53.710068">$10.45 per hour).</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 85.79443)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="34.510067"><tspan x="0" y="34.510067">Employer-Related Expenses</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 85.79443)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="53.710068"><tspan x="0" y="15.310067">The amount of expenses the individual must account for as an employer.</tspan><tspan xml:space="preserve" x="586.375" y="15.310067"> </tspan><tspan x="0" y="34.510067">For example, expenses might include running payroll, administrative</tspan><tspan xml:space="preserve" x="552.5156" y="34.510067"> </tspan><tspan x="0" y="53.710068">costs, and/or taxes. This number is an estimation only.</tspan><tspan xml:space="preserve" x="437.47656" y="53.710068"> </tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 144.83444)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="29.526604"><tspan x="0" y="29.526604">Billable Hourly Rate</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 144.83444)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="39.126602"><tspan x="0" y="19.926601">The "Agreed Upon Hourly Wage" combined with the "Employer-Related</tspan><tspan xml:space="preserve" x="569.7578" y="19.926601"> </tspan><tspan x="0" y="39.126602">Expenses".</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 193.9075)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="29.526604"><tspan x="0" y="29.526604">Overtime Wage</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 193.9075)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="29.526604"><tspan x="0" y="29.526604">The "Agreed Upon Hourly Wage" multiplied by 1.5.</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 242.98058)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="29.526604"><tspan x="0" y="29.526604">Billable Overtime Hourly Rate</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 242.98058)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="39.126602"><tspan x="0" y="19.926601">The "Agreed Upon Overtime Hourly Wage" combined with "Employer-</tspan><tspan x="0" y="39.126602">Related Expenses".</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 3.6, 292.05365)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="29.526604"><tspan x="0" y="29.526604">Overtime</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 251.82828, 292.05365)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#2A2F36" x="0" y="29.526604"><tspan x="0" y="29.526604">Hours worked past 40 hours in a one-week period.</tspan></text></g>
+  </g>
+</svg>
